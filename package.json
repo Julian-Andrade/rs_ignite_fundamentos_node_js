@@ -1,0 +1,24 @@
+{
+  "name": "rs_ignite_fundamentos_node_js",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node --watch src/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Julian-Andrade/rs_ignite_fundamentos_node_js.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Julian-Andrade/rs_ignite_fundamentos_node_js/issues"
+  },
+  "homepage": "https://github.com/Julian-Andrade/rs_ignite_fundamentos_node_js#readme",
+  "dependencies": {
+    "csv": "^6.2.7"
+  }
+}
